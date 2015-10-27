@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 curl --data "username=username&password=password" url_to_submit_data &> /dev/null
+=======
+curl --data "username=swamy_vikas&password=icloud" http://www.icloudnet.in/login &> /dev/null
+>>>>>>> e6ce825accf6e12d38ee8c47737708591a3bce87
