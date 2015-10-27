@@ -1,0 +1,1 @@
+curl --data "username=swamy_vikas&password=icloud" http://www.icloudnet.in/login &> /dev/null
